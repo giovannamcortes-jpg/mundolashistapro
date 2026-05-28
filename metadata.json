@@ -1,0 +1,6 @@
+{
+  "name": "Mundo Lashista Pro",
+  "description": "Plataforma de gestión, agenda y fidelización para profesionales de la belleza lashista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
